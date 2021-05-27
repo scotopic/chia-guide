@@ -123,7 +123,7 @@ Once you got a plot on each machine it'll be time to optimize and test various s
 
 #### Progress scripts
 1. How do I see how far along are the plots in percentages % ?
-    1. Download this and place in `~/Documents/` on your plotters: ![chia-plot-progress.sh](scripts/chia-plot-progress.sh)
+    1. Download this and place in `~/Documents/` on your plotters: [chia-plot-progress.sh](scripts/chia-plot-progress.sh)
     1. `date; ~/Documents/chia-plot-progress.sh ~/.chia/logs/*`
 
 #### Performance scripts
