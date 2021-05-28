@@ -18,13 +18,11 @@ A starting place for chia git installation and plotting on several Mac mini M1 8
 #### Phase 3 - 36+ plots/day
 1. COMING SOON - Phase 3 (Increase Plotting Speed) - Share Phase 3 to increase the plotting speed to 36 plots/day.
     1. Goal: 36+ plots/day ( 16-18 plots/day/mini )
-    1. Equipment:
-       1. 2x Mac mini M1 16GB RAM
+    1. Equipment for each Mac mini M1 16GB RAM:
        1. 2x Thunderbolt 3 enclosure for NVMe M.2 SSD
        1. 2x NVMe M.2 SSD
        1. 2x USB-C enclosure for NVMe M.2 SSD ( or at least SSD )
        1. 2x NVMe M.2 SSD
-
 
 ### Sponsor / Support this project
 
