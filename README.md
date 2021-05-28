@@ -5,13 +5,26 @@ A starting place for chia git installation and plotting on several Mac mini M1 8
 <img src="assets/chia-plotting-overview.png" data-canonical-src="assets/chia-plotting-overview.png" width="75%" />
 
 ### Project Phases
+
+#### Phase 1 - Beginners Guide to Chia Plotting
 1. DONE - Phase 1 (Beginner's Guide) - a quick start and explanation of how to get setup plotting/farming Chia today. 
     * Goal: 50 TB and 24 plots/day.
     * Note: I do recommend buying the Mac mini M1 16GB ( even if it's only 1 or 2 ) this will double the plotting speed (covered in Phase 3)
+
+#### Phase 2 - 100 TB+ storage
 1. IN PROGERSS - Phase 2 (Increase Storage) - Share Phase 2 to grow your storage for long haul. 
     * Goal: 100 TB+ with SAS storage
+
+#### Phase 3 - 36+ plots/day
 1. COMING SOON - Phase 3 (Increase Plotting Speed) - Share Phase 3 to increase the plotting speed to 36 plots/day.
-    * Goal: 36+ plots/day
+    1. Goal: 36+ plots/day ( 16-18 plots/day/mini )
+    1. Equipment:
+       1. 2x Mac mini M1 16GB RAM
+       1. 2x Thunderbolt 3 enclosure for NVMe M.2 SSD
+       1. 2x NVMe M.2 SSD
+       1. 2x USB-C enclosure for NVMe M.2 SSD ( or at least SSD )
+       1. 2x NVMe M.2 SSD
+
 
 ### Sponsor / Support this project
 
