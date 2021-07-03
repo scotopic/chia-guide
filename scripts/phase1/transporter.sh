@@ -11,4 +11,3 @@ echo "sleep";sleep 900;SRC_DRIVE="/Volumes/chiaplot-ext-2";DEST_DRIVE="/Volumes/
 echo "sleep";sleep 900;SRC_DRIVE="/Volumes/chiaplot-ext-3";DEST_DRIVE="/Volumes/chiasas1";pushd ${SRC_DRIVE};ls -Al plot-*.plot | tr -s ' ' | cut -f9- -d' ' | head -${NUM_PLOTS_TO_MOVE} > ${SRC_DRIVE}/_transporter_list.txt;popd;cat ${SRC_DRIVE}/_transporter_list.txt;rsync -aP --remove-source-files --files-from=${SRC_DRIVE}/_transporter_list.txt ${SRC_DRIVE} ${DEST_DRIVE};
 echo "sleep";sleep 900;SRC_DRIVE="/Volumes/chiaplot-ext-4";DEST_DRIVE="/Volumes/chiasas1";pushd ${SRC_DRIVE};ls -Al plot-*.plot | tr -s ' ' | cut -f9- -d' ' | head -${NUM_PLOTS_TO_MOVE} > ${SRC_DRIVE}/_transporter_list.txt;popd;cat ${SRC_DRIVE}/_transporter_list.txt;rsync -aP --remove-source-files --files-from=${SRC_DRIVE}/_transporter_list.txt ${SRC_DRIVE} ${DEST_DRIVE};
 
-
